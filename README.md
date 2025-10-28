@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## 👤 Author
 
-**Abhishek Negi**
+**Sahil kumar**
 
 * GitHub: [@SahilKumar94](https://github.com/Sahilkumar94)
 ---
